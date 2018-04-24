@@ -1,0 +1,1 @@
+<div id="ruting" ng-view></div>
